@@ -202,5 +202,5 @@ pycurl:
 ```
 
 
-## Lisence
+## Licence
 MIT
